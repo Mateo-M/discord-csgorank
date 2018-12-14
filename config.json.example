@@ -1,0 +1,33 @@
+{
+    "botToken": "<BOTTOKEN>",
+    "prefix": "!",
+    "steam": {
+        "steamWebAPIKey": "<SteamWebAPIKey>",
+        "account": {
+            "username": "<Bot Steam Login>",
+            "password": "<Bot Steam Password>",
+            "sharedSecret": "<Optional shared secret for 2FA>"
+        }
+    },
+    "ranks": [
+        "RoleID for Unranked",
+        "RoleID for Silver 1",
+        "RoleID for Silver 2",
+        "RoleID for Silver 3",
+        "RoleID for Silver 4",
+        "RoleID for Silver Elite",
+        "RoleID for Silver Elite Master",
+        "RoleID for Gold Nova 1",
+        "RoleID for Gold Nova 2",
+        "RoleID for Gold Nova 3",
+        "RoleID for Gold Nova Master",
+        "RoleID for Master Guardian 1",
+        "RoleID for Master Guardian 2",
+        "RoleID for Master Guardian Elite",
+        "RoleID for Distinguished Master Guardian",
+        "RoleID for Legendary Eagle",
+        "RoleID for Legendary Eagle Master",
+        "RoleID for Supreme Master First Class",
+        "RoleID for The Global Elite"
+    ]
+}
