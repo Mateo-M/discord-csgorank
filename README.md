@@ -1,4 +1,4 @@
-# Based on https://github.com/BeepFelix's work
+# Based on https://github.com/BeepFelix 's work
 
 # Discord CSGO Ranks
 Assign users a role based on their CSGO rank
